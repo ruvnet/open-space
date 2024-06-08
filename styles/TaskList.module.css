@@ -1,0 +1,31 @@
+.taskList {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.taskList h2 {
+  margin: 0;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.taskList ul {
+  list-style: none;
+  padding: 0;
+}
+
+.taskList li {
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #fff;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.taskList li:last-child {
+  margin-bottom: 0;
+}
