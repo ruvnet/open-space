@@ -17,6 +17,7 @@ This guide provides comprehensive instructions for developing an open-source Git
 6. [Authentication and Security](#authentication-and-security)
 7. [Deployment](#deployment)
 8. [Installation Script](#installation-script)
+9. [Implementation Details](#implementation-details)
 
 ### Project Setup
 
