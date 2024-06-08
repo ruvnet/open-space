@@ -1,5 +1,5 @@
 # open-space
-An open source of the GitHub Copilot Workspace
+An open source version of the GitHub Copilot Workspace
 
 ### Technical Implementation Guide for GitHub Copilot Workspace Clone Using Node.js and Next.js
 
